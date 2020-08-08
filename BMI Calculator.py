@@ -1,7 +1,7 @@
 
 print("Welcome to this handy dandy BMI calculator, the perfect tool to determine if you are fat or not! \n\n"
       "We will conveniently let you know if you are not eating enough, eating too much, way too much or just right! \n\n"
-      "So please, before you pick your poison, how you would like to be told you are too fat:\n"
+      "So please, before you pick your poison, how would you like to be told you are too fat:\n"
       )
 
 
